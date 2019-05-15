@@ -11,3 +11,6 @@ def my_collect(collection)
   new_collection
 end 
 
+collection = ["eli", "aubrey", "lando", "michael"]
+
+my_collect(collection)
