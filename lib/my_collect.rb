@@ -13,6 +13,8 @@ end
 
 collection = ["eli", "aubrey", "lando", "michael"]
 
+my_collect(collection)
+
 #my_collect(collection) do 
 # |name| name.upcase
 #end 
